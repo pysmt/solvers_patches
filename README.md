@@ -1,2 +1,3 @@
-# solvers_patches
-Store all patches for solvers in a single location.
+# PySMT Solvers Patches
+
+This repository contains patches to SMT solvers supported by PySMT.
